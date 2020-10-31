@@ -1,0 +1,19 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Entendiendo ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/Santiago-Otero-Figueredo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/Santiago-Otero-Figueredo/issues"
+  },
+  "homepage": "https://github.com/github.com/Santiago-Otero-Figueredo#readme"
+}
